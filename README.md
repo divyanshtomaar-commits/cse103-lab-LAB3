@@ -1,21 +1,45 @@
-# cse103-lab-LAB3
+# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
+![Last Commit](https://img.shields.io/github/last-commit/divyanshtomaar-commits/cse103-lab-LAB3)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-## CSE103 Lab 3 - GitHub Collaboration & API Interaction
+## Overview
+This repository contains lab work for **LAB 3** of the
+Computer Fundamentals & Career Pathways (CSE103) course at
+**K.R. Mangalam University**, Gurugram.
 
-This repository contains practical work for LAB 3 of the CSE103 Computer Fundamentals course.
+## Repository Structure
+```
+cse103-lab-LAB3/
++-- README.md      # Project documentation (this file)
++-- CHANGELOG.md   # Version history
++-- main.py        # Primary Python script
++-- .gitignore     # Files excluded from Git tracking
+```
 
-## Project Files
-
-- main.py - Primary Python program
-- README.md - Project documentation
-- .gitignore - Files excluded from Git tracking
+## Skills Demonstrated
+| Skill | Status |
+|----------------------|-------------|
+| Git initialisation | Completed |
+| Meaningful commits | Completed |
+| Remote push / pull | Completed |
+| Markdown docs | Completed |
+| API interaction | Completed |
 
 ## How to Run
+```bash
+git clone https://github.com/divyanshtomaar-commits/cse103-lab-LAB3.git
+cd cse103-lab-LAB3
+python3 main.py
+```
 
-Run the following command:
+## Key Learning Outcomes
+- Configured Git identity and initialised local repositories
+- Created atomic commits with Conventional Commit messages
+- Pushed and pulled changes with a GitHub remote
+- Authored structured Markdown documentation
 
-    python3 main.py
-
-## Author
-
-Divyansh Tomar
+## References
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Docs](https://docs.github.com)
+- [Markdown Guide](https://www.markdownguide.org)
